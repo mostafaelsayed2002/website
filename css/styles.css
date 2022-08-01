@@ -1,101 +1,74 @@
 body{
-margin: 0;
-text-align: center;
-font-family: 'Montserrat', sans-serif;
+
+  background: #06283D;
+    text-align: center;
 
 }
+.na{
 
-div{
-background-color: white;
+  color: white;
 }
-
-.top {
-  background-color: #E4F9F5;
-
-  margin: 0;
-  padding-top: 100px;
-  padding-bottom:70px;
-
+.navbar-light .navbar-nav .nav-link {
+    color:white;
 }
 h1{
-
-  font-family: 'Sacramento', cursive;
-  font-size: 90px;
-  color: #66BFBF;
-  margin: 50px auto 0 auto;
+    color: white;
 }
-
 h2{
-
-  font-family: 'Sacramento', cursive;
-    color: #66BFBF;
-  font-weight: bold;
+    color: white;
+}
+.first {
+  padding-top: 3rem;
+}
+.text{
+padding-top: 4rem;
 
 }
-h3{
 
-  font-family: 'Sacramento', cursive;
-    color:  #11999E;
-}
 span{
+  display: block;
+}
+
+.phone{
+
+  margin-bottom: 1rem;
+  color: white;
+}
+
+
+
+.b2{
+margin-right: 1rem;
+}
+
+.second
+{
+  margin-top: 2rem;
+  background-color: white;
+  padding-bottom: 5rem;
+}
+
+
+.moma{
+  padding-top: 2rem;
   font-weight: bold;
 }
 
-
-.downcloud{
-  position: absolute;
-left:500px;
-bottom: 400px;
+.second{
+margin-top: 4rem;
+font-weight: bold;
 }
 
-.upcloud{
-position: absolute;
-right: 500px;
-top: 50px;
+.icon {
+  color: #06283D;
 }
 
-.Mostafa{
-  padding-top: 10px;
-   border-radius: 50%;
-height: 300px;
-width: 300px;
-}
-.c
-{
-  border-radius: 50%;
-height: 50px;
-width: 50px;
-margin-right:  10px;
-margin-bottom: 10px;
-}
-ul{
-  display: inline-block;
-  text-align: left;
-}
-.css{
-  height: 50px;
-  width: 200px;
-  margin-bottom: 10px;
-}
-
-.bottom-container{
-  padding-bottom: 10px;
-  padding-top: 5px;
-    background-color: #E4F9F5;
-}
-
-
-hr{
-  width: 20%;
-  border: 10px dotted;
-  border-style: none none dotted;
-  color: grey;
+.icon:hover{
+color: grey;
 
 }
-.skills{
-padding-bottom: 10px;
-}
 
-.btn{
-color:  #11999E;
+p{
+padding-top: 1rem;
+
 }
